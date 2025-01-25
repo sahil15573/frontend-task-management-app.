@@ -1,14 +1,19 @@
 * Project Structure
   
 src/components: Contains reusable UI components.
+
 src/pages: Includes the main pages of the website.
+
 src/context: Manages state using context API.
+
 src/assets: Stores images and other static files.
 
 * Technologies Used
   
 React.js
+
 CSS
+
 Vite
 
 * Project description and feature list
