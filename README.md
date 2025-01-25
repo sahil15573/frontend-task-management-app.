@@ -1,15 +1,18 @@
 * Project Structure
+  
 src/components: Contains reusable UI components.
 src/pages: Includes the main pages of the website.
 src/context: Manages state using context API.
 src/assets: Stores images and other static files.
 
 * Technologies Used
+  
 React.js
 CSS
 Vite
 
 * Project description and feature list
+
 Food Delivery Website
 
 This is a fully functional and responsive food delivery website built using React.js. The website is designed to provide a seamless and engaging user experience, catering to both desktop and mobile users. It includes the following key features:
